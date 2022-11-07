@@ -8,7 +8,7 @@
     - To know more about this you can visit [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - Other wise you can use UI elements present already:
     
-    ![Untitled](Information%20on%20Ticket%20Analysis%20e73ca6c51b0845d6b7ebd12ee72db45a/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/25875102/200245276-4da594d0-d356-416e-8a15-053e5315495a.png)
     
 
 ### Markup text editor
